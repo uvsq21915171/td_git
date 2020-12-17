@@ -1,2 +1,2 @@
 # td_git
-ubuhhubub
+Ce projet consiste à coder une calculatrice.
